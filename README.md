@@ -2,9 +2,13 @@
 I'm Bhukya Prakash. I am an undergraduate student at the Indian Institute of Technology Kharagpur. I have a passion for technology and innovation, with a keen interest in web development. 
 
 Skills and Experience
-💻 HTML
+💻 
 <br/>
-CSSJS
+HTML
+<br/>
+CSS
+<br/>
+Javascript
 <br/>
 React JS
 <br/>
