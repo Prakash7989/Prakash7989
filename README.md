@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 Undergraduate student at **Indian Institute of Technology Kharagpur**  
+🎓 Graduate from **Indian Institute of Technology Kharagpur**  
 💡 Passionate about **Technology, Innovation, Web Development & Generative AI**  
 🧠 Strong interest in building **scalable full-stack applications** and **AI-powered products**  
 🔥 Love working with **React, Tailwind, Flask, MERN & AI models**
